@@ -101,4 +101,8 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/vmet2019/vmet2019.github.io.git
+  branch: main
+  user: vmet2019
+  email: vmet.2019@outlook.com 
