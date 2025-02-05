@@ -73,8 +73,8 @@ copyright:
 #   - enabled: whether to enable the 404 page (404.html).
 error_404:
   enabled: true
-  title: "404 Page Not Found"
-  description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  title: "哦豁~ 你怎么来了?"
+  description: "从前有座山, 山里有个庙. \n庙里有个老和尚, 老和尚说:'哦豁~ 页面不见咯!'"
 
 
 ##############################################################################
