@@ -15,9 +15,8 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: /about/
   articles: /archives/
-  projects: https://github.com/vmet2019
+  about: /about/
 
 
 # Links to your social media accounts.
@@ -74,7 +73,7 @@ copyright:
 error_404:
   enabled: true
   title: "哦豁~ 你怎么来了?"
-  description: "从前有座山, 山里有个庙. \n庙里有个老和尚, 老和尚说:'哦豁~ 页面不见咯!'"
+  description: "从前有座山, 山里有个庙. 庙里有个老和尚, 老和尚说:'哦豁~ 页面不见咯!'"
 
 
 ##############################################################################
